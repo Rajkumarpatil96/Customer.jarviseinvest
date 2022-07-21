@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-21T07:33:31 IST" name="Suite" finished-at="2022-07-21T07:36:19 IST" duration-ms="167955">
+    <groups>
+    </groups>
+    <test started-at="2022-07-21T07:33:31 IST" name="Test" finished-at="2022-07-21T07:36:19 IST" duration-ms="167955">
+      <class name="TestPackage.JarvisInvestTest">
+        <test-method is-config="true" signature="Browserlounch()[pri:0, instance:TestPackage.JarvisInvestTest@22ff4249]" started-at="2022-07-21T07:35:29 IST" name="Browserlounch" finished-at="2022-07-21T07:36:06 IST" duration-ms="37596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlounch -->
+        <test-method is-config="true" signature="ClickGetstartedButton()[pri:0, instance:TestPackage.JarvisInvestTest@22ff4249]" started-at="2022-07-21T07:36:06 IST" name="ClickGetstartedButton" finished-at="2022-07-21T07:36:17 IST" duration-ms="10745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGetstartedButton -->
+        <test-method signature="ClickSignUpButton()[pri:0, instance:TestPackage.JarvisInvestTest@22ff4249]" started-at="2022-07-21T07:36:17 IST" name="ClickSignUpButton" finished-at="2022-07-21T07:36:19 IST" duration-ms="2085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickSignUpButton -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:TestPackage.JarvisInvestTest@22ff4249]" started-at="2022-07-21T07:36:19 IST" name="browserclose" finished-at="2022-07-21T07:36:19 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- TestPackage.JarvisInvestTest -->
+      <class name="TestPackage.Testclass">
+        <test-method is-config="true" signature="browserlounch()[pri:0, instance:TestPackage.Testclass@34e9fd99]" started-at="2022-07-21T07:33:31 IST" name="browserlounch" finished-at="2022-07-21T07:33:44 IST" duration-ms="12798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlounch -->
+        <test-method is-config="true" signature="clickOnsigninButton()[pri:0, instance:TestPackage.Testclass@34e9fd99]" started-at="2022-07-21T07:33:44 IST" name="clickOnsigninButton" finished-at="2022-07-21T07:35:27 IST" duration-ms="103054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnsigninButton -->
+        <test-method signature="entermailpass()[pri:0, instance:TestPackage.Testclass@34e9fd99]" started-at="2022-07-21T07:35:27 IST" name="entermailpass" finished-at="2022-07-21T07:35:28 IST" duration-ms="911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entermailpass -->
+        <test-method is-config="true" signature="clickonlogin()[pri:0, instance:TestPackage.Testclass@34e9fd99]" started-at="2022-07-21T07:35:28 IST" name="clickonlogin" finished-at="2022-07-21T07:35:28 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonlogin -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:TestPackage.Testclass@34e9fd99]" started-at="2022-07-21T07:35:28 IST" name="Browserclose" finished-at="2022-07-21T07:35:29 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+      </class> <!-- TestPackage.Testclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
